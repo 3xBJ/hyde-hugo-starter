@@ -8,3 +8,6 @@ googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
+[taxonomies]
+tag = "tags"
+category = "categories"

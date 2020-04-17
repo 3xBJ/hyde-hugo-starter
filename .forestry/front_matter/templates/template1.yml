@@ -37,3 +37,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+pages:
+- content/posts/app-xaml-one-file-to-rule-them-all.md
